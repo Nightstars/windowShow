@@ -1,0 +1,3 @@
+windowshow.h|"E:\visual studio\windowshow\windowshow\windowshow.h" -o ".\GeneratedFiles\Debug\moc_windowshow.cpp" "-I.\GeneratedFiles" "-I." "-IF:\program\QT\5.6.3\msvc2015_64\include" "-I.\GeneratedFiles\Debug" "-IF:\program\QT\5.6.3\msvc2015_64\include\QtCore" "-IF:\program\QT\5.6.3\msvc2015_64\include\QtGui" "-IF:\program\QT\5.6.3\msvc2015_64\include\QtANGLE" "-IF:\program\QT\5.6.3\msvc2015_64\include\QtWidgets" -DUNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+windowshow.qrc|"E:\visual studio\windowshow\windowshow\windowshow.qrc" -o ".\GeneratedFiles\qrc_windowshow.cpp" --name windowshow
+windowshow.ui|"E:\visual studio\windowshow\windowshow\windowshow.ui" -o ".\GeneratedFiles\ui_windowshow.h"
